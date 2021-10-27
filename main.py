@@ -45,7 +45,7 @@ async def get_weather(message: types.Message):
         "Clear": "Ясно ☀",
         "Clouds": "Облачно ☁",
         "Rain": "Дождь 🌧",
-        "Thunderstorm": "Гроза 🌩⛈",
+        "Thunderstorm": "Гроза 🌩",
         "Snow": "Снег ☃",
         "Mist": "Туман 🌫"
     }
